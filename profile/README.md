@@ -1,4 +1,4 @@
-<h1 align="center" style="padding: 0.5em 0">Event.mu: Event Recommendation App for SMEs</h1>
+<h1 align="center" style="padding: 0.5em 0">boothUP!: Event Recommendation App for SMEs</h1>
 
 # Team Profile
 
@@ -14,7 +14,7 @@
 * (MD) A306DSX1701 – Muhammad Rifqy – Universitas Pembangunan Nasional Veteran Yogyakarta
 
 # Description
-Event.mu is our collaborative project for our final project at Bangkit Academy 2023. This is an Event Recommendation app that connects SMEs and Event Organizers. In this app, SMEs could search for related events that they want to cooperate with.
+boothUP! is our collaborative project for our final project at Bangkit Academy 2023. This is an Event Recommendation app that connects SMEs and Event Organizers. In this app, SMEs could search for related events that they want to cooperate with.
 
 ## Project Background
 
