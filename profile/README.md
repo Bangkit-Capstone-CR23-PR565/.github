@@ -1,5 +1,9 @@
 <h1 align="center" style="padding: 0.5em 0">boothUP!: Event Recommendation App for SMEs</h1>
 
+## [Presentation Slide](https://raw.githubusercontent.com/Bangkit-Capstone-CR23-PR565/.github/main/C23-PR565-Presentation-Slide.pdf)
+
+<br>
+
 # Team Profile
 
 ### Team ID : C23-PR565
